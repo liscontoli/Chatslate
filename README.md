@@ -7,7 +7,7 @@
 **Chatslate** is a real-time multilingual messaging app built with **Flutter** & **Firebase**.  
 It integrates the **Google Translate API** to automatically detect and translate messages into the user’s preferred language, enabling barrier-free communication across cultures.  
 
-## 🎥 Demos
+## Demos
 
 <p align="center">
   <a href="https://youtube.com/shorts/8wjD3ZvYFgw">
