@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshots/Chatslate_Logo.png" alt="Chatslate Logo" width="300">
+  <img src="Screenshots/Chatslate_Logo.png" alt="Chatslate Logo" width="400">
 </p>
 
 # Chatslate
