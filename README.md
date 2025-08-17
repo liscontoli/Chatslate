@@ -25,8 +25,6 @@ It integrates the **Google Translate API** to automatically detect and translate
 ## Screenshots
 <p align="center"><img src="Screenshots/Chasla_SplashScreen.jpg" alt="Splash Screen" width="450"></p>
 <p align="center"><img src="Screenshots/Chasla_WelcomeScreen.JPG" alt="Welcome Screen" width="450"></p>
-<p align="center"><img src="Screenshots/Chasla_SignInScreen.JPG" alt="Sign In Screen" width="450"></p>
-<p align="center"><img src="Screenshots/Chasla_SettingsScreen.JPG" alt="SettingsScreen" width="500"></p>
 <p align="center"><img src="Screenshots/Chasla_LanguageScreen.JPG" alt="Language Screen" width="450"></p>
 <p align="center"><img src="Screenshots/Chasla_LanguageSearchBar.JPG" alt="Language Screen" width="450"></p>
 <p align="center"><img src="Screenshots/Chasla_ProfileScreenGit.JPG" alt="Profile Screen" width="450"></p>
