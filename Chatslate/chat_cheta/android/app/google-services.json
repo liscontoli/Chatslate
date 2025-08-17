@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "756783400790",
+    "project_id": "chat-cheta",
+    "storage_bucket": "chat-cheta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:756783400790:android:d7e8c657b9242f8f55f8f7",
+        "android_client_info": {
+          "package_name": "com.usamadev.chat_cheta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdXida0EQMr40NRtWxHzNEhuIC-_dFFtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
