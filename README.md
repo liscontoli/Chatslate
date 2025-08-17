@@ -23,12 +23,12 @@ It integrates the **Google Translate API** to automatically detect and translate
 
 
 ## Screenshots
-<p align="center"><img src="Screenshots/Chasla_SplashScreen.JPG" alt="Splash Screen" width="500"></p>
+<p align="center"><img src="Screenshots/Chasla_SplashScreen.jpg" alt="Splash Screen" width="500"></p>
 <p align="center"><img src="Screenshots/Chasla_WelcomeScreen.JPG" alt="Welcome Screen" width="500"></p>
-<p align="center"><img src="Screenshots/Chasla_LogInScreen.JPG" alt="Log In Screen" width="500"></p>
+<p align="center"><img src="Screenshots/Chasla_SignInScreen.JPG" alt="Log In Screen" width="500"></p>
 <p align="center"><img src="Screenshots/Chasla_SettingsScreen.JGP" alt="SettingsScreen" width="500"></p>
 <p align="center"><img src="Screenshots/Chasla_LanguageScreen.JPG" alt="Language Screen" width="500"></p>
-<p align="center"><img src="Screenshots/Chasla_LanguageScreenSearchBar.JPG" alt="Language Screen" width="500"></p>
+<p align="center"><img src="Screenshots/Chasla_LanguageSearchBar.JPG" alt="Language Screen" width="500"></p>
 <p align="center"><img src="Screenshots/Chasla_ChatScreen.JPG" alt="Chats Screen" width="500"></p>
 
 ## Features
